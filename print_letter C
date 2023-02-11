@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+void main(){
+    //big letter of C
+
+    printf("   #####\n");
+    printf("  ##    ##\n");
+    printf(" #\n");
+    printf(" #\n");
+    printf(" #\n");
+    printf(" #\n");
+    printf(" #\n");
+    printf("  ##    ##\n");
+    printf("    #####\n");
+}
